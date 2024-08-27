@@ -1,6 +1,6 @@
 Mariano Barragán
 
-The solution for this challengue is composed of various applications, which are described in the attached PDF.
+The solution for this challenge is composed of various applications, which are described in the attached PDF.
 
 To be able to meet the deadline, I wasn't able to complete the docker-compose.yml. This is the WIP version:
 
